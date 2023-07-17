@@ -21,7 +21,7 @@
   "DFIntUserIdPlayerNameCacheSize": 33554432,
   "DFIntUserIdPlayerNameLifetimeSeconds": 86400,
   "FIntHttpCurlMaxCachedHandlesPerHost": 16,
-  "DFIntTaskSchedulerTargetFps": 500,
+  "DFIntTaskSchedulerTargetFps": 144,
   "FFlagEnableQuickGameLaunch": false,
   "FFlagHandleAltEnterFullscreenManually": false,
   "FFlagPreloadAllFonts": true,
